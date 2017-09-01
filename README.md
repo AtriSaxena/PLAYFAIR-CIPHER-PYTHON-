@@ -1,4 +1,7 @@
 # PLAYFAIR-CIPHER-PYTHON-
+
+
+
 #OUTPUT
 Enter keyNETWORK
 
