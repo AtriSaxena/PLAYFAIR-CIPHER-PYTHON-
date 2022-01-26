@@ -1,5 +1,6 @@
 #CONTACT FOR ANY QUESTIONS
 #CODERATRI-ATRISAXENA2@GMAIL.COM
+#See this example: https://www.javatpoint.com/playfair-cipher-program-in-java
 
 key=input("Enter key")
 key=key.replace(" ", "")
